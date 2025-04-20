@@ -1,0 +1,6 @@
+# testing
+/storybook-static
+
+# production
+/dist
+/node_modules
